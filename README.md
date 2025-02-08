@@ -39,9 +39,6 @@ This project builds an interactive Power BI analytics platform by leveraging **
 - Advanced **machine learning predictions** for sales forecasting.
 - Optimization of logistics based on **shipment data analytics**.
 
-## Contact
-
-For any questions or contributions, feel free to reach out!
 
 ## Reference
 https://www.youtube.com/watch?v=ooJO7NW4uJU
